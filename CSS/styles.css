@@ -1,0 +1,74 @@
+body {
+    text-align:center;
+    font-family: 'Montserrat', sans-serif;
+    font-size:1em;
+    margin:0;
+
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size:3.125rem;
+}
+
+.top {
+    background-color:#014872;
+    color:white;
+    padding: 100px;
+
+}
+
+
+
+.hello {
+
+    width:50%;
+    margin:0 auto;
+
+}
+
+h2 {
+    font-family: 'Josefin Slab', serif;
+    font-size:2rem;
+    padding:10px;
+}
+h3 {
+    font-family: 'Josefin Slab', serif;
+    font-size:1.5em;
+}
+
+.myskills {
+    background-color:#014872;
+    padding:30px;
+    color:white;
+}
+
+.Computer {
+  border-radius: 200px;
+  height:100px;
+  width:100px;
+}
+
+.webchallenges {
+    background-color:#E0EAF5;
+    padding:30px;
+}
+.Chillies {
+position: relative;
+  border-radius:20px;
+  height:100px;
+  width:100px;
+}
+
+.contactme {
+    background-color:#ff8e2b;
+    padding:30px;
+    color:white;
+}
+.footer-link {
+  color:white;
+}
+
+a {
+  text-decoration: underline;
+}
